@@ -1,7 +1,9 @@
 <div align="center">
-  ## Hello there. 👍
+  # Hello there. 👍
+  
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Coding+Enthusiast;Roody:2D;Member+of+SLTK;https://roody2d.wiki.gg;SLTKR2D)](https://git.io/typing-svg)
 </div>
+
 I am Sear, a currently learning-and-improving programmer.
 
 ## 😄 I'm...
