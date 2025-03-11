@@ -1,5 +1,5 @@
 # Hello there. 👍
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Coding+Enthusiast;Roody:2D;Member+of+SLTK;https://roody2d.wiki.gg;SLTKR2D)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Coding+Enthusiast%20|%20Code%20Learning;Minecraft%20|%20Roody:2D%20;%20https://roody2d.wiki.gg%20|%20SLTKR2D)
 
 
 I am Sear, a currently learning-and-improving programmer.
